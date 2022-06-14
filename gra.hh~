@@ -1,0 +1,2 @@
+class Gra{
+  unsigned rozmiar_planszy, ile_w_rzedzie;
